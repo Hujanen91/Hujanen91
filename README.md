@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Hujanen91/Project_1_Red_Dead_Redemption_2"><img width="1150" src="media/reddead2gif.gif" alt="Red Dead Redemption 2 fan page preview"></a>
+      <a href="https://github.com/Hujanen91/Project_1_Red_Dead_Redemption_2"><img width="400" src="media/reddead2gif.gif" alt="Red Dead Redemption 2 fan page preview"></a>
     </td>
     <td width="50%">
       Project 1 for Code Institute. Red Dead Redemption 2 is my nr 1 favorite game of all times, the extremely well thought through characters, the story, detailed graphics and insane voice acting makes this the perfect game.
