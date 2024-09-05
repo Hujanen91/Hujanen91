@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Hujanen91/Project_1_Red_Dead_Redemption_2"><img width="400" src="https://github.com/linx02/resume/raw/master/resume.gif" alt="Red Dead Redemption 2 fan page preview"></a>
+      <a href="https://github.com/Hujanen91/Project_1_Red_Dead_Redemption_2"><img width="400" src="media/reddead2gif.gif" alt="Red Dead Redemption 2 fan page preview"></a>
     </td>
     <td>
       Project 1 for Code Institute, a school project made with HTML / css
